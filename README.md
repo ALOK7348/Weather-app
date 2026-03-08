@@ -1,3 +1,14 @@
-#this is new project created by me , and it is the seconf time commit that i am uploading this file
+# Weather App
 
-..
+A simple weather application using OpenWeather API.
+
+## Features
+- Search weather by city
+- Temperature, humidity, wind
+- Responsive UI
+
+## Tech Stack
+HTML
+CSS
+JavaScript
+OpenWeather API
